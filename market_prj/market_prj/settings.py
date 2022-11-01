@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-kh(n!a03@1l36j1myysv#c5m6&mfl3!o@!(bdr83gc@^sd^%f!
 DEBUG = True
 
 # ALLOWED_HOSTS = ['market-prg123.herokuapp.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['market-prg123.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
