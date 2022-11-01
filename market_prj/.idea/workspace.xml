@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6449cc38-ec22-4033-b99e-102bfb3def80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/ТЕСТОВЫЙ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UTC</find>
+      <find>Regions</find>
+      <find>select</find>
+      <find>ShopUserProfileEditForm</find>
+      <find>save_user_profile</find>
+      <find>SOCIAL_AUTH_VK_OAUTH2_SCOPE</find>
+      <find>SOCIAL_AUTH_URL_NAMESPACE</find>
+      <find>AuthForbidden</find>
+      <find>ListOfCountriesEditForm</find>
+      <find>media_acc</find>
+      <find>CountryDeleteView</find>
+      <find>country</find>
+      <find>category_record</find>
+      <find>user</find>
+      <find>product_record</find>
+      <find>user_record</find>
+      <find>models</find>
+      <find>basket_list</find>
+      <find>orderitems</find>
+      <find>get_total_nights</find>
+      <find>get_accommodation_nights</find>
+      <find>get_total_cost</find>
+      <find>get_accommodation_cost</find>
+      <find>Accommodation</find>
+      <find>fields</find>
+      <find>order_form</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mainapp/templates/mainapp/base.html" />
+        <option value="$PROJECT_DIR$/mainapp/templates/mainapp/index.html" />
+        <option value="$PROJECT_DIR$/mainapp/templates/mainapp/accommodations.html" />
+        <option value="$PROJECT_DIR$/mainapp/templates/mainapp/includes/inc_footer.html" />
+        <option value="$USER_HOME$/Desktop/Михаил Тарабрин/TravelMarket-master/TravelMarket/urls.py" />
+        <option value="$PROJECT_DIR$/authapp/forms.py" />
+        <option value="$USER_HOME$/Desktop/версии/step_3/django_prj/market_prj/authapp/templates/authapp/login.html" />
+        <option value="$PROJECT_DIR$/authapp/templates/authapp/base.html" />
+        <option value="$PROJECT_DIR$/mainapp/urls.py" />
+        <option value="$PROJECT_DIR$/authapp/templates/authapp/register.html" />
+        <option value="$USER_HOME$/Desktop/версии/step_3/django_prj/market_prj/authapp/views.py" />
+        <option value="$PROJECT_DIR$/authapp/urls.py" />
+        <option value="$PROJECT_DIR$/authapp/views.py" />
+        <option value="$USER_HOME$/Desktop/версии/step_3/django_prj/market_prj/authapp/models.py" />
+        <option value="$PROJECT_DIR$/mainapp/management/commands/update_db.py" />
+        <option value="$PROJECT_DIR$/authapp/models.py" />
+        <option value="I:/Курсы GeekBrains. 2021/Клиент-серверные приложения на Python/Урок-2/Урок 2. Практическое задание/task_2/orders.json" />
+        <option value="$USER_HOME$/Desktop/версии/step_4/django_prj/market_prj/market_prj/settings.py" />
+        <option value="$PROJECT_DIR$/authapp/templates/authapp/login.html" />
+        <option value="$PROJECT_DIR$/market_prj/vk.json" />
+        <option value="$PROJECT_DIR$/authapp/pipeline.py" />
+        <option value="$PROJECT_DIR$/adminapp/forms.py" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/user_delete.html" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/country_delete.html" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/base.html" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/includes/inc_menu.html" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/countries.html" />
+        <option value="$PROJECT_DIR$/adminapp/urls.py" />
+        <option value="$PROJECT_DIR$/adminapp/views.py" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/accommodation_delete.html" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/accommodations.html" />
+        <option value="$PROJECT_DIR$/adminapp/templates/adminapp/accommodation_read.html" />
+        <option value="$PROJECT_DIR$/authapp/templates/authapp/edit.html" />
+        <option value="$PROJECT_DIR$/basketapp/models.py" />
+        <option value="$PROJECT_DIR$/mainapp/templates/mainapp/accommodation_details.html" />
+        <option value="$PROJECT_DIR$/basketapp/templates/basketapp/base.html" />
+        <option value="F:/Курсы GeekBrains/Курс. Django Framework. Часть 1/Урок-6/src_lesson_6/step_5(ajax)/geekshop/basketapp/urls.py" />
+        <option value="$PROJECT_DIR$/basketapp/urls.py" />
+        <option value="$PROJECT_DIR$/static/js/basket_scripts.js" />
+        <option value="F:/Курсы GeekBrains/Курс. Django Framework. Часть 1/Урок-6/src_lesson_6/step_5(ajax)/geekshop/basketapp/views.py" />
+        <option value="$PROJECT_DIR$/basketapp/templates/basketapp/includes/inc_basket_list.html" />
+        <option value="$PROJECT_DIR$/basketapp/views.py" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/market_prj/settings.py" />
+        <option value="$PROJECT_DIR$/ordersapp/forms.py" />
+        <option value="$PROJECT_DIR$/market_prj/urls.py" />
+        <option value="$PROJECT_DIR$/basketapp/templates/basketapp/basket.html" />
+        <option value="$PROJECT_DIR$/ordersapp/views.py" />
+        <option value="$PROJECT_DIR$/ordersapp/models.py" />
+        <option value="$PROJECT_DIR$/mainapp/templates/mainapp/includes/inc_menu.html" />
+        <option value="$USER_HOME$/Desktop/ТЕСТОВЫЙ.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="193" />
+    <option name="y" value="41" />
+    <option name="width" value="1555" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/chat" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Курс.Джанго\Урок_7\market_prj\ordersapp" />
+      <recent name="I:\Курс.Джанго\Урок_6\market_prj\static\js" />
+      <recent name="I:\Курс.Джанго\Урок_6\market_prj\basketapp" />
+      <recent name="I:\Курс. Джанго\Урок_5\market_prj\adminapp" />
+      <recent name="I:\Курс. Джанго\Урок_4\market_prj\authapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6449cc38-ec22-4033-b99e-102bfb3def80" name="Default Changelist" comment="" />
+      <created>1630479602133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630479602133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19968387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Pylint" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33694476" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19968387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Pylint" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30877572" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/версии/step_5/django_prj/market_prj/adminapp/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/Курсы GeekBrains/Курс. Django Framework. Часть 1/Урок-6/src_lesson_6/step_5(ajax)/geekshop/basketapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Курсы GeekBrains/Курс. Django Framework. Часть 1/Урок-6/src_lesson_6/step_5(ajax)/geekshop/basketapp/templates/basketapp/basket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Курсы GeekBrains/Курс. Django Framework. Часть 1/Урок-6/src_lesson_6/step_5(ajax)/geekshop/basketapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="67" column="9" selection-start-line="63" selection-start-column="8" selection-end-line="67" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Курсы GeekBrains/Курс. Django Framework. Часть 1/Урок-6/src_lesson_6/step_5(ajax)/geekshop/basketapp/templates/basketapp/includes/inc_basket_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/basket_scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="487" column="19" selection-start-line="487" selection-start-column="19" selection-end-line="487" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_prj/asgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_prj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="e#311#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="72" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="74" column="37" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/market_prj/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="31" column="65" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="36" column="78" selection-start-line="33" selection-start-column="4" selection-end-line="36" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/order_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="31" lean-forward="true" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/order_confirm_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/templates/basketapp/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="21" column="49" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/templates/basketapp/includes/inc_basket_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="106" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="106" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#button#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/templates/basketapp/includes/inc_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="75" column="37" lean-forward="true" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/templates/ordersapp/order_confirm_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/templates/ordersapp/order_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/templates/ordersapp/order_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/templates/ordersapp/order_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/ordersapp/templates/ordersapp/includes/inc_order_actions.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/версии/step_7/django_prj/market_prj/basketapp/templates/basketapp/basket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#button#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/templates/basketapp/basket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="14" selection-start-line="16" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#button#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2304.34516/Databases-and-PyQT/server_database.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2304.35535/Databases-and-PyQT/server.py" />
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/order_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/order_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/includes/inc_order_actions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/templates/ordersapp/includes/inc_order_summary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/templates/mainapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/templates/mainapp/base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/templates/mainapp/accommodations.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/templates/mainapp/includes/inc_footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="77" column="47" selection-start-line="74" selection-start-column="8" selection-end-line="77" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_prj/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="61" />
+          <folding>
+            <element signature="e#634#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/templates/mainapp/includes/inc_menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/templates/mainapp/accommodation_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa7812.23031/chat/common/client_log_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa7812.23719/chat/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ТЕСТОВЫЙ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
